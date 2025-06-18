@@ -23,7 +23,7 @@ This guide demonstrates how to create professional cost forecasting dashboards u
 
 ## 📈 Sample Dashboard Data
 
-Based on your AWS account (764710143902) forecast data:
+Based on sample AWS account forecast data:
 
 ### Cost Trend Analysis Data
 ```
@@ -54,9 +54,9 @@ Data Points              | 10 services, 2 months
 ## 🚀 QuickSight Setup Instructions
 
 ### Step 1: Data Source Setup
-1. **S3 Bucket**: `aws-cost-forecast-qs-1750256833`
-2. **Data File**: `s3://aws-cost-forecast-qs-1750256833/data/comprehensive_forecast.csv`
-3. **Manifest File**: `s3://aws-cost-forecast-qs-1750256833/data/manifest.json`
+1. **S3 Bucket**: `your-cost-forecast-bucket`
+2. **Data File**: `s3://your-cost-forecast-bucket/data/comprehensive_forecast.csv`
+3. **Manifest File**: `s3://your-cost-forecast-bucket/data/manifest.json`
 
 ### Step 2: Dataset Configuration
 ```json
@@ -64,7 +64,7 @@ Data Points              | 10 services, 2 months
     "fileLocations": [
         {
             "URIs": [
-                "s3://aws-cost-forecast-qs-1750256833/data/comprehensive_forecast.csv"
+                "s3://your-cost-forecast-bucket/data/comprehensive_forecast.csv"
             ]
         }
     ],
