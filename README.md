@@ -210,7 +210,7 @@ We welcome contributions from the AWS community!
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/aws-cost-forecast-toolkit.git
+git clone https://github.com/NithinChandranR-AWS/aws-cost-forecast-toolkit.git
 cd aws-cost-forecast-toolkit
 
 # Run tests
@@ -238,16 +238,16 @@ Special thanks to our contributors:
 - 📖 **Documentation Heroes**: [Documentation contributors]
 
 ### Get Involved
-- 💬 [GitHub Discussions](https://github.com/YOUR_USERNAME/aws-cost-forecast-toolkit/discussions) - Ask questions, share ideas
-- 🐛 [Report Issues](https://github.com/YOUR_USERNAME/aws-cost-forecast-toolkit/issues) - Found a bug? Let us know!
+- 💬 [GitHub Discussions](https://github.com/NithinChandranR-AWS/aws-cost-forecast-toolkit/discussions) - Ask questions, share ideas
+- 🐛 [Report Issues](https://github.com/NithinChandranR-AWS/aws-cost-forecast-toolkit/issues) - Found a bug? Let us know!
 - 📧 [Email Updates](mailto:your-email@domain.com) - Stay updated on releases
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/aws-cost-forecast-toolkit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/aws-cost-forecast-toolkit?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/aws-cost-forecast-toolkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/aws-cost-forecast-toolkit)
+![GitHub stars](https://img.shields.io/github/stars/NithinChandranR-AWS/aws-cost-forecast-toolkit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NithinChandranR-AWS/aws-cost-forecast-toolkit?style=social)
+![GitHub issues](https://img.shields.io/github/issues/NithinChandranR-AWS/aws-cost-forecast-toolkit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/NithinChandranR-AWS/aws-cost-forecast-toolkit)
 
 ## 📄 License
 
@@ -257,13 +257,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 1. 📖 Check the [documentation](docs/)
-2. 🔍 Search [existing issues](https://github.com/YOUR_USERNAME/aws-cost-forecast-toolkit/issues)
-3. 💬 Start a [discussion](https://github.com/YOUR_USERNAME/aws-cost-forecast-toolkit/discussions)
-4. 🐛 [Create an issue](https://github.com/YOUR_USERNAME/aws-cost-forecast-toolkit/issues/new)
+2. 🔍 Search [existing issues](https://github.com/NithinChandranR-AWS/aws-cost-forecast-toolkit/issues)
+3. 💬 Start a [discussion](https://github.com/NithinChandranR-AWS/aws-cost-forecast-toolkit/discussions)
+4. 🐛 [Create an issue](https://github.com/NithinChandranR-AWS/aws-cost-forecast-toolkit/issues/new)
 
 ### Professional Support
 For enterprise support, training, or custom implementations:
-- 📧 Email: rajashan@amazon.com
 - 💼 LinkedIn: [Nithin Chandran R](https://www.linkedin.com/in/nithin-chandran-r/)
 - � GitHub: [NithinChandranR-AWS](https://github.com/NithinChandranR-AWS)
 
